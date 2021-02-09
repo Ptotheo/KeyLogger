@@ -1,0 +1,7 @@
+https://www.thepythoncode.com/article/write-a-keylogger-python
+
+
+https://stackoverflow.com/questions/55185874/python-keyboard-module-not-working-properly-inside-loop
+
+
+https://pypi.org/project/keyboard/
